@@ -4,7 +4,6 @@
 import sys
 
 sys.path.append("..")
-sys.path.append("../nnscaler")
 
 
 import z3

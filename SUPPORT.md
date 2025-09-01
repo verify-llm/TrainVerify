@@ -6,8 +6,9 @@ This project uses GitHub Issues to track bugs and feature requests. Please searc
 issues before filing new issues to avoid duplicates.  For new issues, file your bug or 
 feature request as a new Issue.
 
-For help and questions about using this project, please contact [TrainVerify](mailto:trainverify@service.microsoft.com) team.
+For help and questions about using this project, please contact [nnScaler](mailto:nnscaler@service.microsoft.com) team.
+.
 
 ## Microsoft Support Policy  
 
-Support for this project is limited to the resources listed above.
+Support for this project nnScaler is limited to the resources listed above.

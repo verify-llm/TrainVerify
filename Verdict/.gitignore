@@ -1,9 +1,5 @@
-log.txt
-sm.nodes
-pm.nodes
 .nnscaler
-data/cache/*
-data/logs/*
-data/stats/*
 pymp*
-play.*
+data/cache
+data/logs
+data/stats
